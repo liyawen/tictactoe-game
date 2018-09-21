@@ -3,7 +3,7 @@
 const common = {
 
   // 获取当前场景
-  curState: () => go.game.state.getCurrentState,
+  curState: () => go.game.state.getCurrentState(),
 
   // 绘制按钮
   addBtn: ({ x, y, callback, context, text }) => {
