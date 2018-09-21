@@ -8,11 +8,9 @@
 		"newFeature": true
 	},
 	"compileType": "game",
-	"libVersion": "2.2.5",
+	"libVersion": "2.3.0",
 	"appid": "wxab73bcdb55e6273c",
-	"projectname": "tictactoe-game",
-	"miniprogramRoot": "miniprogram/",
-	"cloudfunctionRoot": "cloudfunction/",
+	"projectname": "井字大作战",
 	"condition": {
 		"search": {
 			"current": -1,
